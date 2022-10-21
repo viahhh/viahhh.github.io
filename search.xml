@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="/2022/10/19/hello-world/"/>
-      <url>/2022/10/19/hello-world/</url>
+      <title>杂谈</title>
+      <link href="/2022/10/21/%E6%9D%82%E8%B0%88/"/>
+      <url>/2022/10/21/%E6%9D%82%E8%B0%88/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo server<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo generate<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<p>来到苏州快一个月了，心血来潮建了个人博客。没有别的意思，只是想记录一下自己的生活。(感谢苏大，给了我那么多的空闲时间，虽然本人在写下这篇文章的时候作业还没写完。)  </p><p>受某人启发，我想起了本人在4个月的暑假空闲时间里，在<a href="https://github.com/arcxingye">Seiya</a>等大佬的<a href="https://xingye.me/game/eatkano/index.php">小游戏</a>的基础上改写的<a href="https://viahhh.github.io/EatKano/">吃掉小金阳</a>,如果有想要玩的同学可以重温一下。目前没有更新的打算，因为本来就是一时兴起的产物。如果有想要创作自己版本的小游戏，可以点击<a href="https://xingye.me/game/eatkano/index.php">小游戏</a>的链接，大佬已经写的很清楚了。这是游戏截图：<br><img src="/pic/1.png"><del>(同桌觉得很赞)</del>  </p><p>马上又是一个周末，又是一个一个人与<del>高数，线代，Python，大英，</del>方舟相处的时间。(封校对宅男影响真心不大，<del>什么时候才会走上情人坡呢。</del>)  </p><p>最后，以一句话作结：终成眷属的恋情，不提也罢。  ——《四叠半时光机布鲁斯》  (与本文无关)</p>]]></content>
       
       
       
@@ -17,11 +17,11 @@
     
     
     <entry>
-      <title>测试文章</title>
-      <link href="/2022/10/19/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
-      <url>/2022/10/19/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
+      <title>Hello World</title>
+      <link href="/2022/10/19/hello-world/"/>
+      <url>/2022/10/19/hello-world/</url>
       
-        <content type="html"><![CDATA[<p>红红火火恍恍惚惚</p>]]></content>
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo server<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo generate<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
       
       
